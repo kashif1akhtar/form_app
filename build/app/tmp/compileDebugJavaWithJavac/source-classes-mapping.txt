@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+dev/flutter/formApp/form_app/BuildConfig.java
+ dev.flutter.formApp.form_app.BuildConfig
